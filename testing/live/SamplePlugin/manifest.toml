@@ -1,0 +1,5 @@
+[plugin]
+repository = "https://github.com/kalilistic/SamplePlugin.git"
+owners = ["kalilistic"]
+project_path = "SamplePlugin.Plugin"
+commit = "a94ed7d6d5df2c9ccfd6206b3189a8aaceb06487"
